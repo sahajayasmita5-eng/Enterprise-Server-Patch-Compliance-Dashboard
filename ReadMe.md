@@ -159,20 +159,12 @@ Enterprise-Server-Patch-Compliance-Dashboard
 
 # Future Enhancements
 
-* Historical compliance trend analysis
-
-* Executive summary page
-
-* Drill-through reports
-
-* Row-Level Security (RLS)
-
-* Scheduled data refresh
-
-* Power BI Service deployment
+* Server capacity utilization
+* Storage and filesystem analysis
+* CPU and memory utilization trends
+* Application-wise infrastructure analysis
 
 ---
 
-# About Me
-
-I am an Infrastructure Engineer transitioning into Data Analytics. This project combines my Linux infrastructure domain knowledge with Power BI, DAX, and data visualization skills to solve a realistic enterprise reporting problem.
+# Author
+Jayasmita Saha
